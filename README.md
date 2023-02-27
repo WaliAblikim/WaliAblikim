@@ -6,8 +6,8 @@ I'm Wali Ablikim. Software Engineer 👨‍💻 Passionate about UX / Testing Pr
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- 💻 I'm Currently Working On Vue
-- ⏳ Exploring TypeScript & React
+- 💻 I'm Currently Working with Vue
+- ⏳ Exploring Angular & React
 - 🤟🏻 I'm a passionate geek, amatuer singer, and fitness lover. I also write pieces of poetry, blogs.
 
 ---
